@@ -1,5 +1,5 @@
 /*!
- * Paper.js v0.12.17 - The Swiss Army Knife of Vector Graphics Scripting.
+ * Paper.js v0.12.17-develop - The Swiss Army Knife of Vector Graphics Scripting.
  * http://paperjs.org/
  *
  * Copyright (c) 2011 - 2020, Jürg Lehni & Jonathan Puckey
@@ -9,7 +9,7 @@
  *
  * All rights reserved.
  *
- * Date: Thu Nov 3 21:15:36 2022 +0100
+ * Date: Tue Mar 7 17:36:56 2023 +0900
  *
  * This is an auto-generated type definition.
  */
@@ -1572,7 +1572,7 @@ declare namespace paper {
         /** 
          * The index of this item within the list of its parent's children.
          */
-        readonly index: number
+        index: number
 
         /** 
          * The color of the stroke.
